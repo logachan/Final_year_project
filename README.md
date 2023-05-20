@@ -9,3 +9,6 @@ Dataset was collected from kaggle and generate mutiple Machine Learning Algorith
 
 Fit algorithm - ADABOOST Algorithm.
 
+# Jorunal  Publication - IJARESM Publication.
+
+See the Publication (click here) - http://www.ijaresm.com/uploaded_files/document_file/Logachander_BT99H.pdf
